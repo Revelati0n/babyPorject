@@ -1,0 +1,10 @@
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\bin\Debug\UserControlProject.exe
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\bin\Debug\UserControlProject.pdb
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\UserControlProject.csproj.GenerateResource.Cache
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\UserControlProject.exe
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\UserControlProject.pdb
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Revelati0n\documents\visual studio 2010\Projects\UserControlProject\UserControlProject\obj\x86\Debug\WindowsFormsApplication1.Userinformation.resources
